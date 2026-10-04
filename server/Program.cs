@@ -35,6 +35,9 @@ namespace Lab4
                         Console.WriteLine("\nДо свидания!");
                         run = false;
                         break;
+                    default:
+                        Console.WriteLine("\nНеверный ввод. Выберите от 1 до 4.");
+                        break;
                 }
             }
         }
