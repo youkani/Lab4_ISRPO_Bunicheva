@@ -1,0 +1,15 @@
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\bin\Debug\net10.0\server.exe
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\bin\Debug\net10.0\server.deps.json
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\bin\Debug\net10.0\server.dll
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\bin\Debug\net10.0\server.pdb
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\server.dll
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\server.pdb
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\home\Lab4_ISRPO_Bunicheva\server\obj\Debug\net10.0\ref\server.dll
