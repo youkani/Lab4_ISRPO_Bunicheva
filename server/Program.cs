@@ -11,7 +11,7 @@ namespace Lab4
             Console.WriteLine("Добро пожаловать!");
             Console.WriteLine($"Разработчик: {fio}");
             Console.WriteLine($"Группа: {group}");
-            Console.WriteLine($"Текущая дата и время: {DateTime.Now}");
+            Console.WriteLine($"Текущая дата и время: {DateTime.Now} ");
         }
     }
 }
